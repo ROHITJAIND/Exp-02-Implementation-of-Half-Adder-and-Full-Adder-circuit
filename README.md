@@ -78,10 +78,10 @@ endmodule
 
 ## TIMING DIAGRAM:  
 - ### HALF ADDER:  
-<img width="817" alt="half adder timing diagram" src="https://user-images.githubusercontent.com/118707073/210395573-7cee6604-0890-48cb-8e30-b2073c64c75a.png">
+![Screenshot_20230105_052521](https://user-images.githubusercontent.com/118707073/210776790-0291d821-209d-4c7b-97e7-6ce9a609f2de.png)
 
 - ### FULL ADDER:  
-<img width="817" alt="full adder timing diagram" src="https://user-images.githubusercontent.com/118707073/210395933-b471f87c-26f7-4853-b2ba-20cd78e3243e.png">
+![Screenshot_20230105_053556](https://user-images.githubusercontent.com/118707073/210776909-29999c44-ebcb-4842-a2d5-35bb748ca1d5.png)
 
 ## TRUTH TABLE:  
 - ### HALF ADDER:  
